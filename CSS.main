@@ -1,0 +1,11 @@
+.container {
+    padding: 40px;/* Поля */
+    background: #DCDCDC; /* Цвет фона */
+    border:  50px; /* Параметры рамки */
+    webkit-border-radius: 10px; /* округлить с каждой стороны блока до 20px, для браузеров Safari, Chrome, iOS */
+    moz-border-radius: 10px;    /* округлить с каждой стороны блока до 20px, для браузеров (Firefox) */
+    border-radius: 10px;    /* округлить с каждой стороны блока до 20px, использует свойство CSS3 */
+}
+body {
+    margin: 60px; /* Убираем отступы */
+}
